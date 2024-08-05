@@ -42,7 +42,7 @@ local quest = nil
 for i, v in pairs(Workspace["NPC DAMAGE"]:GetChildren()) do
 table.insert(questlist, v.Name)
 end
-   local drop = drops:Dropdown("Mob lv 2000 > lv 20000+", questlist, function(y)
+   local drop = drops:Dropdown("Mob lv 2000 > lv 200000+", questlist, function(y)
 for i, v in pairs(game.Workspace["NPC DAMAGE"]:GetChildren()) do
 if y == v.Name then
 quest = y
