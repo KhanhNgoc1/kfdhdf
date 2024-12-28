@@ -1,12 +1,7 @@
-local targetPlayer = game.Players:FindFirstChild("PAayft2")
-if targetPlayer then
-    targetPlayer:Kick("bú hack cmm")
-end
-local targetPlayer = game.Players:FindFirstChild("tên")
-if targetPlayer then
-    targetPlayer:Kick("bú hack cmm")
-end
-local targetPlayer = game.Players:FindFirstChild("tên")
-if targetPlayer then
-    targetPlayer:Kick("bú hack cmm")
+local player = game.Players.LocalPlayer
+
+if player.Name == "PAayft2" or player.Name == "BaoDuyCaygame3" or player.Name == "BaoDuyCaygame3" or player.Name == "BaoDuyCaygame3" then
+    print("ok thk em")
+else
+    player:Kick("địt mẹ bú liếm con cặc t địt cả lò nhà mày mẹ mày là con phò")
 end
