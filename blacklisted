@@ -1,4 +1,4 @@
-local targetPlayer = game.Players:FindFirstChild("tên")
+local targetPlayer = game.Players:FindFirstChild("PAayft2")
 if targetPlayer then
     targetPlayer:Kick("bú hack cmm")
 end
