@@ -1,6 +1,6 @@
 local player = game.Players.LocalPlayer
 
-if player.Name == "INC_NAME12345" or player.Name == "BaoDuyCayg3" or player.Name == "djsajw" or player.Name == "boy" or player.Name == "no" then
+if player.Name == "xYCbDC0L4G" or player.Name == "BaoDuyCayg3" or player.Name == "djsajw" or player.Name == "boy" or player.Name == "no" then
     print("Quỳ xuống")
 else
     player:Kick("địt mẹ bú liếm con cặc t địt cả lò nhà mày mẹ mày là con phò Quỳ Xuống")
